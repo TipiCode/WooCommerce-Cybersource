@@ -42,5 +42,5 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - <strong>Error message : </strong> Este es un mensaje personalizado que se le muestra al usuario al momento que ocurra un error.
 
 ## ¿Como contribuir?
-¡Nos encantaría que puedas formar parte de esta comunidad, si deseas contribuir eres libre de hacerlo! te dejamos a continuación documentación oficial de las integraciones con  [Cybersource](https://visanetgt.ubc.cybersource.com/ebc2/) para que puedas hecharle un vistazo.
+¡Nos encantaría que puedas formar parte de esta comunidad, si deseas contribuir eres libre de hacerlo! te dejamos a continuación documentación oficial de las integraciones con  [Cybersource](https://www.cybersource.com/es-mx.html) para que puedas hecharle un vistazo.
 - [Developer Center](https://developer.cybersource.com/api/developer-guides.html)
