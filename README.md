@@ -13,12 +13,37 @@ Plugin para [Woocommerce](https://woocommerce.com/) que habilita la pasarela de 
 ## Primeros pasos
 Te compartimos cuáles son los primeros pasos para poder adquirir el servicio por parte del [Cybersource](https://www.cybersource.com/es-mx.html)
 
+### 📌 ¿Donde adquiero el servicio de la pasarela de pago de Cybersource?
+El servicio de Cybersource requiere que tu comercio esté afiliado a [Visanet Guatemala](https://www.visanet.com.gt/), aqui podras encontrar [mas información acerca de la afiliación](https://www.visanet.com.gt/Comercios/RequisitosAfiliacion).
+
+### 📃 ¿Cuales son los requisitos?
+Para poder adquirir el servicio de la pasarela de pago necesitas lo siguiente: 
+- Patente de comercio.
+- Constancia de RTU.
+- Fotocopia de DPI de ambos lados del propietario (Pasaporte para extranjeros).
+- Recibo de servicios (agua, luz o teléfono).
+- Cheque Anulado
+
+### 💰 ¿Cual es el costo?
+A continuación te desglosamos los costos que tiene esta pasarela para que te informes antes de adquirir el servicio.
+- Pago por afiliación nueva <strong>$325.00 (Pago único)</strong>
+- <strong>$0.35</strong> centavos por cada transacción.
+- El porcentaje de comisión te lo brinda Visanet dependiendo de la categoría a la que pertenece el negocio.
+
+### ℹ️ Información adicional
+Deberás entregar a tu asesor los requisitos y llenar unos formularios que te brindarán para poder iniciar el proceso.
+
 ## Guía de uso
 A continuacion encontraras como configurar el plugin dentro de tu sitio web de [Wordpress](https://wordpress.com/) y te contaremos un poco como es el proceso de integración con el personal técnico de [Cybersource](https://www.cybersource.com/es-mx.html).
 
 ### 🌐 Configuración del lado del portal brindado por Cybersource
+Una vez te brinden el acceso a tú portal, ingresa al mismo desde el siguiente link.
+- [Test](https://ubctest.cybersource.com/ebc2/)
+- [Producción](https://visanetgt.ubc.cybersource.com/ebc2/)
 
 ** Recuerda que este plugin utiliza la modalidad de <strong>Secure Acceptance</strong> para operar, dentro del portal puedes customizar la apariencia de este sitio de cobro.
+
+Una vez estés dentro del portal de [Cybersource](https://www.cybersource.com/es-mx.html) debes crear un perfil de <strong>Secure Acceptance</strong> para esto te dejamos el siguiente [tutorial](https://www.ryanplugins.com/how-to-setup-cybersource-secure-acceptance-profile/). Si no encuentras en tu usuario la opción para crear un perfil de <strong>Secure Acceptance</strong> por favor comunícate con tu asesor para que te lo habiliten.
 
 ### 💿 Instalación
 Requisitos de instalacion
