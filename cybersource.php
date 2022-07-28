@@ -189,7 +189,7 @@ function filter_woocommerce_cybersource_icon( $icon, $this_id ) {
 	}
 	return $icon;
 }
-add_filter( 'woocommerce_gateway_icon', 'filter_woocommerce_cybersource_icon', 10, 2 );
+apply_filters( 'woocommerce_gateway_icon', 'filter_woocommerce_cybersource_icon', 10, 2 );
 
 /**
  * Add to woocommorce gateway list
