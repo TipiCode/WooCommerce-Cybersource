@@ -3,7 +3,7 @@
  * Plugin Name: Cybersource Payment Gateway
  * Plugin URI: 
  * Description: Cybersource Payment gateway extension for WooCommerce.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Requires PHP: 7.2
  * Author:      tipi(code)
  * Author URI: https://codingtipi.com
