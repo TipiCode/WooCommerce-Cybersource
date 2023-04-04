@@ -39,6 +39,7 @@ Soporte para Versiones de Woocommerce:
 Soporte para Versiones de Php:
 - 8.1
 - 8.0
+- 7.1
 
 ![Maintnence](https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fplugin-maintnence.jpg)
 
