@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: WooCommerce Cybersource
- * Plugin URI: 
+ * Plugin Name: Pasarela de pagos Cybersource
+ * Plugin URI: https://github.com/TipiCode/WooCommerce-Cybersource
  * Description: Plugin para Woocommerce que habilita la pasarela de pago Cybersource de Visanet como método de pago en el checkout de tú sitio web.
  * Version:     1.0.1
  * Requires PHP: 7.2
