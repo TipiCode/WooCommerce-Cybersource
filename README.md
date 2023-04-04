@@ -1,16 +1,18 @@
-<h1 align="center">
-  <img src="https://skyloft.sfo3.cdn.digitaloceanspaces.com/Repos/woo-cyber.jpg" alt="Cybersource">
-</h1>
+![Main Banner](https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fcybersource-banner.jpg)
 
-[![GitHub license](https://img.shields.io/github/license/TipiCode/woocommerce-gateway-cybersource.svg)](https://github.com/TipiCode/woocommerce-gateway-cybersource/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/v/release/TipiCode/woocommerce-gateway-cybersource.svg)](https://github.com/TipiCode/woocommerce-gateway-cybersource/releases)
-[![Github all releases](https://img.shields.io/github/downloads/TipiCode/woocommerce-gateway-cybersource/total.svg)](https://GitHub.com/TipiCode/woocommerce-gateway-cybersource/releases/)
-[![Generic badge](https://img.shields.io/badge/Woocommerce-6.1.0-96588a.svg)](https://woocommerce.com/)
-[![Generic badge](https://img.shields.io/badge/Wordpress-5.9.0-21759b.svg)](https://wordpress.com/)
+![Contributors](https://img.shields.io/github/contributors/TipiCode/WooCommerce-Cybersource?color=%2349C8F1&label=Contribuidores&style=for-the-badge)
+![Errores](https://img.shields.io/github/issues/TipiCode/WooCommerce-Cybersource?color=%23F99D25&style=for-the-badge)
+![Licencia](https://img.shields.io/github/license/TipiCode/WooCommerce-Cybersource?color=%23A4CD39&label=Licencia&style=for-the-badge)
+![Froks](https://img.shields.io/github/forks/TipiCode/WooCommerce-Cybersource?color=%2349C8F1&style=for-the-badge)
+![Version](https://img.shields.io/github/v/release/TipiCode/WooCommerce-Cybersource?color=%23F99D25&label=Ultima%20versi%C3%B3n&style=for-the-badge)
 
 Plugin para [Woocommerce](https://woocommerce.com/) que habilita la pasarela de pago de [Cybersource](https://www.cybersource.com/es-mx.html) como método de pago en el checkout de tú sitio web, implementar una pasarela de pago para realizar cobros en linea no tiene porque ser ciencia espacial.
 
-## Primeros pasos
+![Maintnence](https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fplugin-maintnence.jpg)
+
+¡Hola! Gracias por estar pendiente, tenemos nuevas mejoras para este plugin en nuestro pipeline, mantente al tanto de las actualizaciones futuras de este plugin. Estamos trabajando en solucionar todos los Issues abiertos y recomendaciones que recibimos.
+
+# Primeros pasos
 Te compartimos cuáles son los primeros pasos para poder adquirir el servicio por parte del [Cybersource](https://www.cybersource.com/es-mx.html)
 
 ### 📌 ¿Donde adquiero el servicio de la pasarela de pago de Cybersource?
@@ -33,7 +35,7 @@ A continuación te desglosamos los costos que tiene esta pasarela para que te in
 ### ℹ️ Información adicional
 Deberás entregar a tu asesor los requisitos y llenar unos formularios que te brindarán para poder iniciar el proceso.
 
-## Guía de uso
+# Guía de uso
 A continuacion encontraras como configurar el plugin dentro de tu sitio web de [Wordpress](https://wordpress.com/) y te contaremos un poco como es el proceso de integración con el personal técnico de [Cybersource](https://www.cybersource.com/es-mx.html).
 
 ### 🌐 Configuración del lado del portal brindado por Cybersource
@@ -66,6 +68,28 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - <strong>Debug Log : </strong> Habilita la opcion d poder guardar un log.
 - <strong>Error message : </strong> Este es un mensaje personalizado que se le muestra al usuario al momento que ocurra un error.
 
-## ¿Como contribuir?
-¡Nos encantaría que puedas formar parte de esta comunidad, si deseas contribuir eres libre de hacerlo! te dejamos a continuación documentación oficial de las integraciones con  [Cybersource](https://www.cybersource.com/es-mx.html) para que puedas hecharle un vistazo.
-- [Developer Center](https://developer.cybersource.com/api/developer-guides.html)
+
+# ¿Como contribuir?
+Si buscas contribuir en alguno de nuestros proyectos lo puedes hacer de una manera muy fácil, únicamente necesitaras seguir estos 4 pasos.
+
+1. Haz click en la opción de ¨Fork¨ , o bien puedes precionar ![Aquí](https://github.com/TipiCode/WooCommerce-Cybersource/fork)
+2. Crea un nuevo branch en el area de branches de github.
+3. Nombre tu nuevo branch con un nombre que refleje tu contribución ¨Super mega nueva funcionalidad 3000¨
+4. Desarrolla tu cambio y al terminar crea un ¨pull request¨ para poder subir tu nueva funcionalidad, para eso preciona ![Aquí](https://github.com/TipiCode/WooCommerce-Cybersource/pulls)
+
+Si no eres un desarrollador ¡No te preocupes! Aun puedes contribuir de diferentes maneras, puedes apoyarnos a hacer llegar estas librerías a muchas más personas no únicamente en el área de desarrollo, acá te dejamos las demás áreas donde puedes contribuir con este proyecto.
+
+- Redacción.
+- Moderador de contenido.
+- Documentación de funcionalidades.
+- Traducciones.
+- Compartiendo el proyecto :)
+
+Cada ayuda nos acerca mas a nuestra meta final, tener un proyecto que pueda ser de utilidad para todos.
+
+# ¿Te fue útil este proyecto?
+¡Nos encanta la idea de poder ayudar a crecer tu proyecto! Nuestro esfuerzo como parte de todos los proyectos Open Source con los que contamos tienen como meta ser de ayuda para quien lo necesite, sabemos que muchas veces se requiere una solución para problemas en común, ya sea si estas iniciando un negocio o tienes un proyecto personal y que mejor manera de solucionar ese problema en común que todos juntos.  Si te fue útil nuestro proyecto puedes apoyar a mantenerlo con un pequeño gesto en forma de un [café](https://app.recurrente.com/c/ch_qhynsca9rooyqfdy) para nuestros desarrolladores que contribuyen en este proyecto.
+
+<a href="https://app.recurrente.com/c/ch_qhynsca9rooyqfdy">
+<img src="https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2FBuy%20me%20a%20coffee.jpg">
+</a>
