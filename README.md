@@ -6,7 +6,39 @@
 ![Froks](https://img.shields.io/github/forks/TipiCode/WooCommerce-Cybersource?color=%2349C8F1&style=for-the-badge)
 ![Version](https://img.shields.io/github/v/release/TipiCode/WooCommerce-Cybersource?color=%23F99D25&label=Ultima%20versi%C3%B3n&style=for-the-badge)
 
+# Acerca del proyecto
+
 Plugin para [Woocommerce](https://woocommerce.com/) que habilita la pasarela de pago de [Cybersource](https://www.cybersource.com/es-mx.html) como método de pago en el checkout de tú sitio web, implementar una pasarela de pago para realizar cobros en linea no tiene porque ser ciencia espacial.
+
+Este plugin es parte de un esfuerzo conjunto para desarrollar implementaciones para comercios electrónicos sin importar su tamaño. Nuestra meta es implementar las librerías necesarias para la automatización del proceso de venta en línea.
+
+<table>
+<tr>
+<th align="center">
+<a href="https://github.com/TipiCode/WooCommerce-Cybersource/issues">
+<img src="https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fissue-report.jpg">
+</a>
+</th>
+<th align="center">
+<a href="https://github.com/TipiCode/WooCommerce-Cybersource/pulls">
+<img src="https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Ffeature-request.jpg">
+</a>
+</th>
+</tr>
+</table>
+
+# Hecho para WooCommerce
+El proyecto es hecho para funcionar con Wordpress y WooCommerce, siendo una de la plataforma de comercio electrónico más grande por el momento. Tenemos planes de enfocar nuestros esfuerzos para probar la compatibilidad con versiones mayores de ambas plataformas, si deseas agregar la compatibilidad para una versión no soportada ¡Enhorabuena! Estamos aquí para apoya cualquier actualización que desees realizar.
+
+Soporte para Versiones de Wordpress:
+- 6.1.1
+
+Soporte para Versiones de Woocommerce:
+- 7.5.0
+
+Soporte para Versiones de Php:
+- 8.1
+- 8.0
 
 ![Maintnence](https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fplugin-maintnence.jpg)
 
@@ -52,7 +84,13 @@ Requisitos de instalacion
 - Contar con [Woocommerce](https://woocommerce.com/) instalado dentro de tu sitio web.
 - Haber completado el proceso de solicitud de servicio con el [Cybersource](https://www.cybersource.com/es-mx.html).
 
-Simplemente clona el repositorio, genera un archivo .Zip y súbelo como plugin a tu sitio web de [Wordpress](https://wordpress.com/), recuerda que [Woocommerce](https://woocommerce.com/) debe de estar instalado en el sitio para poder habilitar el plugin.
+Para la instalación del plugin puede hacerlo de varias formas, puedes descargarlo directamente desde [Aquí](https://github.com/TipiCode/WooCommerce-Cybersource/archive/refs/heads/main.zip).
+Tambien puedes simplemente clona el repositorio, genera un archivo .Zip y súbelo como plugin a tu sitio web de [Wordpress](https://wordpress.com/)
+```sh
+   git clone https://github.com/TipiCode/WooCommerce-Cybersource.git
+```
+Recuerda que [Woocommerce](https://woocommerce.com/) debe de estar instalado en el sitio para poder habilitar el plugin.
+
 
 ### ⚙️ Configuración
 Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pagos</strong> , aqui podras encontrar tu forma de pago bajo el nombre de <strong>Cybersource Payment Gateway</strong> aqui podrás gestionar las opciones del plugin. 
@@ -68,6 +106,11 @@ Una vez instalado debes dirigirte al area de <strong>Woocommerce / Ajustes / Pag
 - <strong>Debug Log : </strong> Habilita la opcion d poder guardar un log.
 - <strong>Error message : </strong> Este es un mensaje personalizado que se le muestra al usuario al momento que ocurra un error.
 
+# ¿Tienes alguna duda? 
+Si tienes alguna duda puedes comunicarte con nosotros, trataremos de solucionar tus preguntas lo más pronto posible, puedes escribirnos al siguiente correo electrónico con el tema Woocommerce - Cybersource. O bien nos puedes contactar por cualquiera de nuestras redes sociales.
+
+- Correo : <a href="mailto:root@codingtipi.com?subject=WooCommerce%20-%20Cybersource" target="_blank">root@codingtipi.com</a>
+- Twitter : [@tipi_code](https://twitter.com/tipi_code)
 
 # ¿Como contribuir?
 Si buscas contribuir en alguno de nuestros proyectos lo puedes hacer de una manera muy fácil, únicamente necesitaras seguir estos 4 pasos.
